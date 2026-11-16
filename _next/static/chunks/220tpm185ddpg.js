@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,10152,t=>{"use strict";t.S([37982,"attachIo,X,registerIo,Z",0,41769,"getSaveStatus,W,saveNow,t,subscribeSaveStatus,l",0,88620,"loadLastDrawing,loadLastDrawing"])}]);
